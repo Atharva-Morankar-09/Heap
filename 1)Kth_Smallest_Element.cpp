@@ -31,3 +31,5 @@ int main()
   cout<<"The Kth smallest element is : "<<pq.top();
   return 0;
 }
+
+// T.C. - O(nlogk)
